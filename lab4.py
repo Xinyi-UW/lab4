@@ -24,3 +24,4 @@ def flood_fill(input_board, old, new, x, y):
     flood_fill(input_board, old, new, x, y + 1)
     flood_fill(input_board, old, new, x, y - 1)
 
+ # [Chaney He Review: The code is well-structured and easy to follow. The function parameters and the purpose of the function are clearly defined, which enhances readability.]
